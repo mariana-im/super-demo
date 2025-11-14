@@ -4,7 +4,7 @@ import {
     getAllPosts,
     deletePost
     
-} from '../controllers/postController.js'
+} from '../controllers/postControllers.js'
 
 const router = express.Router();
 
